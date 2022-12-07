@@ -1,5 +1,3 @@
-package lista2;
-
 public class Data {
 
     private int dia;
